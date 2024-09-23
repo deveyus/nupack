@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/nuclearcraft-neoteric.pw.toml"
+hash = "5ba7f72a35c333969b88322e9a4f62647790cc25f3ab692d7c80861a3578e561"
+metafile = true
