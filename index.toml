@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
+metafile = true
+
+[[files]]
 file = "mods/nuclearcraft-neoteric.pw.toml"
 hash = "5ba7f72a35c333969b88322e9a4f62647790cc25f3ab692d7c80861a3578e561"
 metafile = true
