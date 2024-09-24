@@ -206,8 +206,18 @@ hash = "07efd4cf1c3424849a3b79a7213a3655ebdada80fd901dba0cdcae11d1bbb6af"
 metafile = true
 
 [[files]]
+file = "mods/lc-tech.pw.toml"
+hash = "e55fc0f9a2a413f6dadfbdf9ecc33f1d35257e42ace115a360564bd3ca6fd93b"
+metafile = true
+
+[[files]]
 file = "mods/library-of-exile.pw.toml"
 hash = "1f8d581ab89a4114cc3fe42cd2d1a40f55ebf85507815dc726510f5667caaeb3"
+metafile = true
+
+[[files]]
+file = "mods/lightmans-currency.pw.toml"
+hash = "01b6690c7e45cf35318415ec475ddf2c78279112acefd66bed4440f0de6198fa"
 metafile = true
 
 [[files]]
