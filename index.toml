@@ -186,6 +186,11 @@ hash = "50d0d75c988e3dc115ba552895eb7b4dab51c900310e4b651f90341e94741940"
 metafile = true
 
 [[files]]
+file = "mods/jaopca.pw.toml"
+hash = "81c9157124e36f1861cf7d301e90c33edcb2886621472952036c75420828570b"
+metafile = true
+
+[[files]]
 file = "mods/library-of-exile.pw.toml"
 hash = "1f8d581ab89a4114cc3fe42cd2d1a40f55ebf85507815dc726510f5667caaeb3"
 metafile = true
