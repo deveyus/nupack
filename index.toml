@@ -21,6 +21,11 @@ hash = "047dc3fa29712d30514c6d696e862aae88f0f08c0983ae2ed69bd9cc1b5d9bd7"
 metafile = true
 
 [[files]]
+file = "mods/antiportals.pw.toml"
+hash = "051d26b226c59475bf0b594577bbc3ea5facb19dae926500c9e4c0998c50665a"
+metafile = true
+
+[[files]]
 file = "mods/library-of-exile.pw.toml"
 hash = "1f8d581ab89a4114cc3fe42cd2d1a40f55ebf85507815dc726510f5667caaeb3"
 metafile = true
