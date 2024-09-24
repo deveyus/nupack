@@ -136,6 +136,11 @@ hash = "a4b76d40ded1bc2bb868eeda73bdd87a45fb42b9f62d75f0b85ef516dbaa9526"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
 file = "mods/library-of-exile.pw.toml"
 hash = "1f8d581ab89a4114cc3fe42cd2d1a40f55ebf85507815dc726510f5667caaeb3"
 metafile = true
