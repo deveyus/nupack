@@ -151,6 +151,11 @@ hash = "5f3e6e9b3941cc713d098b4c7efcccb162ba4797009202a95eb08e471427fca8"
 metafile = true
 
 [[files]]
+file = "mods/flat-bedrock.pw.toml"
+hash = "ab3457be92e9835f4063fe5ad75bb49658680702f3d47278cdeb43e16a1ca800"
+metafile = true
+
+[[files]]
 file = "mods/library-of-exile.pw.toml"
 hash = "1f8d581ab89a4114cc3fe42cd2d1a40f55ebf85507815dc726510f5667caaeb3"
 metafile = true
