@@ -101,6 +101,11 @@ hash = "d57e612098aa7e78a6ab0e2d6ddfca93236fa0244448bb5bc8460c84589960a8"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-trees-quark.pw.toml"
+hash = "0dcda06d4bddbd8c19e894f92d9c90529a35979a4c19062dc9fa02166c223177"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "be042bcca8bf4d3a2ca3ba04c4eb0a5a0abfb8b4e7d397514c8ffb4420aa3985"
 metafile = true
