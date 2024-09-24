@@ -116,6 +116,11 @@ hash = "66a33b2b8b0554be94fd4bc562ef84956b94ea0fb7edc2d6b6571e2ea0827fda"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "983e6d4d488faca859e3abb13774b823d26a6b7a20d2dff13bfa4f3426cf5689"
+metafile = true
+
+[[files]]
 file = "mods/library-of-exile.pw.toml"
 hash = "1f8d581ab89a4114cc3fe42cd2d1a40f55ebf85507815dc726510f5667caaeb3"
 metafile = true
