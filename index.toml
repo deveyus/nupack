@@ -171,6 +171,11 @@ hash = "254fa88a59939d745fb21115424bcf36b036557d0a481f63239b9d2577d620eb"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "8da51e31d146df07a51fa173d5c1d3f99affb78e478945e2c19f6af412212cd6"
+metafile = true
+
+[[files]]
 file = "mods/library-of-exile.pw.toml"
 hash = "1f8d581ab89a4114cc3fe42cd2d1a40f55ebf85507815dc726510f5667caaeb3"
 metafile = true
