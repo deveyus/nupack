@@ -71,6 +71,11 @@ hash = "06ebad552d4be228b753ee2131374f7f6a9328a6d48e3f0b09fc80c9087b45a0"
 metafile = true
 
 [[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+hash = "2cc22ef9b2976725a1ffeb3d046dc5a69faa320b836ed67312e9242eff0149f5"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "9a46e878cc447fa6375554fddd18cfe4f7a04cd232ae1685be6af7c7f75b617a"
 metafile = true
@@ -103,4 +108,9 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "5a7cbd5bc7dd5ac36cdb21f225e746d67bfb76523ca570afe78a5e421839040a"
 metafile = true
