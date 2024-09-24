@@ -156,6 +156,16 @@ hash = "ab3457be92e9835f4063fe5ad75bb49658680702f3d47278cdeb43e16a1ca800"
 metafile = true
 
 [[files]]
+file = "mods/gateways-to-eternity-more-gateways.pw.toml"
+hash = "94452446bddd5975a6a5f6c8ddd8e8e88fc9e336ddf35e07712befa450001594"
+metafile = true
+
+[[files]]
+file = "mods/gateways-to-eternity.pw.toml"
+hash = "595fe8acbe4778aaed1314ad56e54e200205e15be496bffd56fa36b2ef132c04"
+metafile = true
+
+[[files]]
 file = "mods/library-of-exile.pw.toml"
 hash = "1f8d581ab89a4114cc3fe42cd2d1a40f55ebf85507815dc726510f5667caaeb3"
 metafile = true
