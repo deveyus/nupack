@@ -91,6 +91,11 @@ hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "e1eb9c8386bc3ec75f1dcc14ff420b1a2e64aa2553678cb5ccfa945966280c82"
+metafile = true
+
+[[files]]
 file = "mods/library-of-exile.pw.toml"
 hash = "1f8d581ab89a4114cc3fe42cd2d1a40f55ebf85507815dc726510f5667caaeb3"
 metafile = true
@@ -108,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "71bdf7a2baf2b49de4292b8a0ff48419119b0a9bbf1c06d4f8dd92fd97fe6416"
 metafile = true
 
 [[files]]
